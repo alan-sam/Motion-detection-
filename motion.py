@@ -3,7 +3,7 @@ import numpy as np
 
 
 cam = cv2.VideoCapture(0)
-cam.set(3, 720)
+cam.set(3, 1080)
 cam.set(4, 1080)
 cam.set(10, 100)
 
